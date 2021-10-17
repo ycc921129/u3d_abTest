@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AssetBundleConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ABList Path="Assets/GameData/Shaders/Water.shader" Crc="3794094069" ABName="shader" AssetName="Water.shader" />
+  <ABList Path="Assets/GameData/Shaders/Xray.shader" Crc="2720758644" ABName="shader" AssetName="Xray.shader" />
+  <ABList Path="Assets/GameData/Sounds/bgSound.mp3" Crc="1255986521" ABName="sound" AssetName="bgSound.mp3" />
+  <ABList Path="Assets/GameData/Sounds/clickCantEliminate.mp3" Crc="4276106555" ABName="sound" AssetName="clickCantEliminate.mp3" />
+  <ABList Path="Assets/GameData/Sounds/EliminateEffect1.mp3" Crc="924471074" ABName="sound" AssetName="EliminateEffect1.mp3" />
+  <ABList Path="Assets/GameData/Sounds/EliminateEffect2.mp3" Crc="1891251698" ABName="sound" AssetName="EliminateEffect2.mp3" />
+  <ABList Path="Assets/GameData/Sounds/EliminateEffect3.mp3" Crc="1306139714" ABName="sound" AssetName="EliminateEffect3.mp3" />
+  <ABList Path="Assets/GameData/Sounds/EliminateEffect4.mp3" Crc="4294623314" ABName="sound" AssetName="EliminateEffect4.mp3" />
+  <ABList Path="Assets/GameData/UGUI/BG.prefab" Crc="3531040769" ABName="ugui" AssetName="BG.prefab" />
+  <ABList Path="Assets/GameData/UGUI/GameRoot.prefab" Crc="2764112069" ABName="ugui" AssetName="GameRoot.prefab">
+    <ABDependce>sound</ABDependce>
+  </ABList>
+</AssetBundleConfig>
